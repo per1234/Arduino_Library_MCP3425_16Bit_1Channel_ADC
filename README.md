@@ -20,7 +20,7 @@ Hardware needed to interface MCP3425 sensor with Arduino
 
 4. <a href="https://store.ncd.io/product/dual-i2c-shield-for-arduino-due-with-modular-communications-interface/">Arduino Due</a>
 
-5. <a href="https://store.ncd.io/product/mcp3425-16-bit-1-channel-analog-to-digital-converter-i2c-mini-module/">MCP3425 MCP3425 16-Bit 1-Channel Analog to Digital Converter</a>
+5. <a href="https://store.ncd.io/product/mcp3425-16-bit-1-channel-analog-to-digital-converter-i2c-mini-module/">MCP3425 16-Bit 1-Channel Analog to Digital Converter</a>
 
 6. <a href="https://store.ncd.io/product/i%C2%B2c-cable/">I2C Cable</a>
 
